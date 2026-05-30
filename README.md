@@ -43,3 +43,13 @@ AI-powered DevOps project designed to analyze cloud infrastructure and generate 
 Cloud security project that combines retrieval-augmented generation (RAG) concepts with cloud security workflows. Built to explore modern AI-assisted security and cloud operations use cases.
 
 **Tech Stack:** Python · Cloud Security · RAG · AI
+
+## Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/gummallajahnavi/
+
+💻 GitHub: https://github.com/jahnavi-gummalla
+
+📍 California, United States
+
+💼 Open to Software QA Engineer, QA Automation Engineer, Software Test Engineer, and Cloud/DevOps opportunities
