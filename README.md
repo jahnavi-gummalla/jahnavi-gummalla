@@ -10,10 +10,13 @@
 
 ## About Me
 
-I am a Computer Science graduate from California State University, San Bernardino, with a strong interest in software quality, testing, and automation.
+I am a Computer Science graduate from California State University, San Bernardino, with hands-on experience in software testing, API testing, and test automation.
 
-My experience includes web application testing, API testing, test automation, and building automation frameworks using Python. Through hands-on projects, I have worked on designing test cases, validating APIs, automating test execution, and improving software reliability.
+My journey started with manual testing projects, where I learned how to analyze applications, identify defects, and document software quality issues. As my skills grew, I moved into API testing with Postman and later into automation using Python and Pytest, building projects that focused on improving testing efficiency and reliability.
 
-I am also expanding my skills in cloud technologies and DevOps practices by building practical projects that combine automation, monitoring, and modern software delivery workflows.
+One of my key areas of interest is creating repeatable testing processes that help deliver high-quality software. Through projects such as Automated API Test Suite, API Testing Framework, and Automation Testing with Python, I have gained practical experience in test design, validation, automation, and reporting.
 
-Currently, I am seeking opportunities where I can contribute as a Software QA Engineer, QA Automation Engineer, Software Test Engineer, or related technology professional while continuing to grow my expertise in cloud and DevOps technologies.
+Alongside testing and automation, I am expanding my knowledge of cloud technologies and DevOps by building projects that combine monitoring, automation, and modern software engineering practices.
+
+Currently, I am seeking opportunities as a Software QA Engineer, QA Automation Engineer, or Software Test Engineer while continuing to grow my expertise in Cloud and DevOps technologies.
+
