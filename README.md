@@ -53,3 +53,38 @@ Cloud security project that combines retrieval-augmented generation (RAG) concep
 📍 California, United States
 
 💼 Open to Software QA Engineer, QA Automation Engineer, Software Test Engineer, and Cloud/DevOps opportunities
+
+## Core Expertise
+
+### Testing & Quality Assurance
+
+* Manual Testing
+* API Testing
+* Test Case Design
+* Defect Tracking & Reporting
+* Test Validation
+
+### Automation
+
+* Python
+* Pytest
+* Automation Framework Development
+* Automated API Testing
+* Test Reporting
+
+### Cloud & DevOps
+
+* AWS Fundamentals
+* CI/CD Concepts
+* GitHub Actions
+* Git & GitHub
+* Linux
+
+### Tools & Technologies
+
+* Postman
+* Python
+* SQL
+* GitHub
+* VS Code
+* HTML Reports
