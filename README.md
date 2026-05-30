@@ -20,3 +20,26 @@ Alongside testing and automation, I am expanding my knowledge of cloud technolog
 
 Currently, I am seeking opportunities as a Software QA Engineer, QA Automation Engineer, or Software Test Engineer while continuing to grow my expertise in Cloud and DevOps technologies.
 
+## Currently Building
+
+### 🚀 Automated API Test Suite
+
+Automated REST API testing framework built using Python, Pytest, Requests, and pytest-html. The project focuses on reusable test cases, validation checks, reporting, and automated API verification.
+
+**Tech Stack:** Python · Pytest · Requests · HTML Reports
+
+---
+
+### ☁️ AI DevOps Pipeline
+
+AI-powered DevOps project designed to analyze cloud infrastructure and generate automated insights and reports. Focused on automation, cloud operations, and practical DevOps workflows.
+
+**Tech Stack:** Python · AWS · Automation · Reporting
+
+---
+
+### 🔐 CloudSec RAG Agent
+
+Cloud security project that combines retrieval-augmented generation (RAG) concepts with cloud security workflows. Built to explore modern AI-assisted security and cloud operations use cases.
+
+**Tech Stack:** Python · Cloud Security · RAG · AI
