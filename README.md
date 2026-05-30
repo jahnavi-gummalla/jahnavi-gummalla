@@ -88,3 +88,26 @@ Cloud security project that combines retrieval-augmented generation (RAG) concep
 * GitHub
 * VS Code
 * HTML Reports
+
+## Career Focus
+
+I am currently focused on building a career in Software Quality Assurance and QA Automation, with a strong interest in API Testing, Test Framework Development, and Software Reliability.
+
+My goal is to contribute to teams that value quality, automation, and continuous improvement while expanding my expertise in Cloud Technologies and DevOps practices.
+
+### Areas of Interest
+
+🔹 Software QA Engineering
+
+🔹 QA Automation
+
+🔹 API Testing
+
+🔹 Test Framework Development
+
+🔹 Cloud Technologies
+
+🔹 DevOps Fundamentals
+
+🔹 Continuous Learning & Professional Growth
+
